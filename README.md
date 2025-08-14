@@ -7,6 +7,6 @@ Files:
 
 [Artcle presentation at BSA Showcase](https://github.com/TomSeifert44/fourthdownanalysis/files/15242356/DJPresentationW23.pptx)
 
-[Article link](https://www.bruinsportsanalytics.com/post/4th-down-model)
+[Article link](https://www.bruinsportsanalytics.com/post/4th-down-model) (Website currently down, see PDF)
 
 [Data source](https://www.nflfastr.com/)
