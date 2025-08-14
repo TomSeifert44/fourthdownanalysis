@@ -3,6 +3,8 @@ Predictive modeling project to investigate when NFL teams should go for it on 4t
 
 Files:
 
+[Article PDF](https://github.com/TomSeifert44/fourthdownanalysis/blob/main/article.pdf)
+
 [Artcle presentation at BSA Showcase](https://github.com/TomSeifert44/fourthdownanalysis/files/15242356/DJPresentationW23.pptx)
 
 [Article link](https://www.bruinsportsanalytics.com/post/4th-down-model)
